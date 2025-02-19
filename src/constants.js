@@ -1,14 +1,14 @@
 //BRAND
-export const name = 'AiCourse';
-export const company = 'Spacester';
-export const websiteURL = 'http://localhost:3000';
-export const serverURL = 'http://localhost:5000';
+export const name = 'ChikaAICourse';
+export const company = 'NDHU-project-begining';
+export const websiteURL = 'https://undergraduate-project-940b3.web.app';
+export const serverURL = 'https://undergraduate-project.onrender.com';
 export const logo = 'https://firebasestorage.googleapis.com/v0/b/india-bd34b.appspot.com/o/artificial-intelligence.png?alt=media&token=2dc0da1c-12d0-4dd2-b908-cb8e57fcf3f0';
-export const razorpayEnabled = true;
-export const paypalEnabled = true;
+export const razorpayEnabled = false;
+export const paypalEnabled = false;
 export const stripeEnabled = true;
-export const paystackEnabled = true;
-export const flutterwaveEnabled = true;
+export const paystackEnabled = false;
+export const flutterwaveEnabled = false;
 
 //PRICING :-
 
@@ -29,8 +29,8 @@ export const YearTime = 'year';
 
 //TESTIMONIAL
 export const review = "The AI Course Generator revolutionized my content creation process, providing accurate and relevant topics effortlessly. It's a time-saving powerhouse that enhances the quality and relevance of my courses. A must-have tool for educators seeking efficiency and impactful online learning experiences.";
-export const from = "Anam Meena Sharif";
-export const profession = 'CFO at Spacester';
+export const from = "Chika";
+export const profession = 'Student of NDHU';
 export const photoURL = 'https://play-lh.googleusercontent.com/sV_ffBmBJt_je4RZHnfaCfcnL-Hy6C14Iol7H5EMj9fzI2GDOonuojdn5t9p6n9IAX8j';
 
 //PAYPAL

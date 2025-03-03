@@ -1,8 +1,8 @@
 //BRAND
 export const name = 'ChikaAICourse';
 export const company = 'NDHU-project-begining';
-export const websiteURL = 'https://undergraduate-project-940b3.web.app';
-export const serverURL = 'https://undergraduate-project.onrender.com';
+export const websiteURL = 'https://chika-4050d.web.app';
+export const serverURL = 'https://ndhucoursehelperproject.onrender.com';
 export const logo = 'https://firebasestorage.googleapis.com/v0/b/india-bd34b.appspot.com/o/artificial-intelligence.png?alt=media&token=2dc0da1c-12d0-4dd2-b908-cb8e57fcf3f0';
 export const razorpayEnabled = false;
 export const paypalEnabled = false;
